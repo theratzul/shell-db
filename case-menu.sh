@@ -8,7 +8,7 @@ echo "3 - Something else ..."
 
 read distro;
 
-case $distroin
+case $distro in
     1) echo "Arch is rolling";;
     2) echo "CentOS is rolling";;
     3) echo "Something";;
