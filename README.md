@@ -5,3 +5,4 @@
 3 scheduling.sh  
 4 readonly.sh  
 5 enc-dec.sh  
+6 ./get_httpd_status.sh  (install httpd/apache2)  
