@@ -7,3 +7,5 @@
 5 enc-dec.sh  
 6 ./get_httpd_status.sh  (install httpd/apache2)  
 7 ./shell-arrays.sh  
+8 ./cosi-positional.sh  
+
