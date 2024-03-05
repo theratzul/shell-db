@@ -9,5 +9,5 @@
 7 ./shell-arrays.sh  
 8 ./cosi-positional.sh  
 9 ./login.sh  
-
+10 whiptail --title "Bogdan" --checklist "List" 22 78 12  "a b c"  (https://www.youtube.com/watch?v=KsiPYMKSHU8)  
 
