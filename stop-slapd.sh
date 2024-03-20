@@ -15,7 +15,7 @@ SLAPD_PID=`pgrep slapd`
 
 if [ -n "SLAPD_PID" ]; then
     echo -n "LDAP is still running. Killing"
-    while test -d /proc/$SLAPD_PIDl; do
+    while test -d /proc/$SLAPD_PID; do
       echo -n "."
       kill $SLAPD_PID
       sleep 1
