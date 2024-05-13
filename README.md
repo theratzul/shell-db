@@ -11,3 +11,4 @@
 9 ./login.sh  
 10 whiptail --title "Bogdan" --checklist "List" 22 78 12  "a b c"  (https://www.youtube.com/watch?v=KsiPYMKSHU8)  
 11 ./stop-ldap.sh
+12 sh-aws-s3api.sh # List aws buckets from accounts
