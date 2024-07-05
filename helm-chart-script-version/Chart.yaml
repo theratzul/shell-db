@@ -1,0 +1,10 @@
+apiVersion: v2
+name: test-helm
+description: test-helm
+keyworkds:
+- test
+maintaners:
+- email: theratzul
+- name: theratzul
+version: 0.0.1
+type: application
